@@ -28,13 +28,6 @@
      <!-- Doze: does this device support STATE_DOZE?  -->
     <bool name="doze_display_state_supported">false</bool>
 
-    <!-- Doze: does this device support STATE_DOZE_SUSPEND?  -->
-    <bool name="doze_suspend_display_state_supported">false</bool>
-
-    <!-- Should we vibrate on an icon animation of the shelf. This should only be active if the
-     vibrator is capable of subtle vibrations -->
-    <bool name="config_vibrateOnIconAnimation">true</bool>
-
     <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
     <integer name="config_screenRecorderMaxFramerate">60</integer>
 
@@ -53,6 +46,7 @@
 
     <!--  Flag to turn on the rendering of the above path or not  -->
     <bool name="config_enableDisplayCutoutProtection">true</bool>
+    
     <!-- Type of a sensor that provides a low-power estimate of the desired display
          brightness, suitable to listen to while the device is asleep (e.g. during
          always-on display) -->
