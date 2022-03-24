@@ -7,9 +7,9 @@
 | CPU                     | Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)            |
 | Chipset                 | Qualcomm SM6375 Snapdragon 695G (6 nm)                                     |
 | GPU                     | Adreno 619                                                                 |
-| Memory                  | 4 GB / 8 GB                                                                |
+| Memory                  | 6 GB / 8 GB                                                                |
 | Shipped Software        | Android 11, MIUI 13                                                        |
-| Storage                 | 64 GB / 256 GB                                                             |
+| Storage                 | 128 GB / 256 GB                                                             |
 | Battery                 | 5000 mAh                                                                   |
 | Dimensions              | 165.1 x 76.4 x 9.3 mm (6.5 x 3.01 x 0.37 in)                               |
 | Display                 | 6.67 inches, 107.4 cm2 (~86.0% screen-to-body ratio)                       |
